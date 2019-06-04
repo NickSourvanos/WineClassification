@@ -1,0 +1,17 @@
+{
+    "scores": [ 
+        { "classifier" : "decisionTree",
+            "accuracy" : 0.9722
+        },
+        { "classifier" : "randomForest",
+            "accuracy" : 0.9444
+        },
+        { "classifier" : "svc",
+            "accuracy" :0.9722
+        },
+        { "classifier" : "neuralNetwork",
+            "accuracy" : 0.9583
+        }
+
+    ]
+}
